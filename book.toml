@@ -1,0 +1,15 @@
+[book]
+authors = ["Masih Javidan"]
+language = "fa-IR"
+description = ".ترجمه فارسی کتاب اسنو کرش توسط جادی، نوشته نیل استفنسون"
+multilingual = false
+src = "src"
+title = "snowcrash"
+direction = "rtl"
+
+
+[output.html]
+git-repository-url = "https://github.com/MasihJavidan/Snowcrash"
+
+[output.html.search]
+limit-results = 15
